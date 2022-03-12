@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "993819306045",
+    "firebase_url": "https://perfectmatch-63f0e-default-rtdb.firebaseio.com",
+    "project_id": "perfectmatch-63f0e",
+    "storage_bucket": "perfectmatch-63f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993819306045:android:f3857446e3f5caab786254",
+        "android_client_info": {
+          "package_name": "com.shubham.alwaysliveyoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993819306045-79q6v80gk95gkqakbb7earcc78fjv940.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcejKXW7gJTwmReGla6kfYrIiWKV-qBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993819306045-79q6v80gk95gkqakbb7earcc78fjv940.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993819306045:android:af0d5b7a01a77608786254",
+        "android_client_info": {
+          "package_name": "com.shubham.perfectmatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993819306045-79q6v80gk95gkqakbb7earcc78fjv940.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcejKXW7gJTwmReGla6kfYrIiWKV-qBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993819306045-79q6v80gk95gkqakbb7earcc78fjv940.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
